@@ -1,0 +1,5 @@
+tensorflow
+tensorflow-addons
+vit-keras
+numpy
+Pillow==10.2.0
